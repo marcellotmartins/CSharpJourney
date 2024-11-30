@@ -13,15 +13,6 @@ This repository is designed to:
 
 ---
 
-## 📚 Contents
-
-### Projects
-1. **Guess The Number**  
-   A simple console-based game where players try to guess a random number.
-
-
----
-
 ## 🔧 Technologies Used
 
 - **Language**: C#
