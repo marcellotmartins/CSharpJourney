@@ -9,7 +9,7 @@ class GuessTheNumber
         int userGuess = 0;
         int attempts = 0;
 
-        Console.WriteLine("Bem-vindo ao jogo 'Adivinhe o Número'!");
+        Console.WriteLine("Bem-vindo ao jogo 'Adivinhe o Número'!"); // basico
         Console.WriteLine("Tente adivinhar o número que estou pensando entre 1 e 100.");
         Console.WriteLine("Digite seu palpite:");
 
